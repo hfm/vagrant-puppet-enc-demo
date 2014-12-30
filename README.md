@@ -19,3 +19,7 @@ $ vagrant provision
 ==> default: Info: Applying configuration version '1419906181'
 ==> default: Notice: Finished catalog run in 0.04 seconds
 ```
+
+## Blog
+
+http://blog.hifumi.info/2014/12/31/vagrant-puppet-enc/
